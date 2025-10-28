@@ -1,0 +1,47 @@
+Lập trình mạng - học kì đông 2025
+group fb: fb.com/groups/hkd102025
+---------------------------------
+Mục tiêu: (Java) OOP + Network --> Network programming --> xây dựng ứng dụng/hệ thống
+có giao tiếp qua mạng.
+Nội dung:
+    1. Kỹ thuật lập trình với socket (TCP , UDP)
+
+    2. Kỹ thuật lập trình phân tán (RMI, WS (SOAP))
+---> Dựng và public trang ôn tập và làm bài: http://203.162.10.109/
+
+Đánh giá:
+    1. CC: 10%
+        + Điểm danh trên zoom (onl vào phòng vào các buổi theo thời khóa biểu), thời gian onl tối thiểu 50-75%
+        + http://203.162.10.109/Student/ZoomMonitor
+        + Lưu ý trong tên trong phòng --> có chứa mã sinh viên -> định danh
+        + Không điểm danh trực tiếp --> chủ động
+    2. TBKT(0.8): 20% làm bài kiểm tra thực hành OFFLINE (PHÒNG MÁY)
+        + 01 buổi kiểm tra thực hành TCP + UDP vào 13:00 - 14:00 ngày 16/11/2025
+        611 A3
+        + 05 bài (02 TCP + 02 UDP + 01 TCP/UDP) --> 4/6/8/9/10
+    3. BTL(0.8): 20% làm bài kiểm tra thực hành OFFLINE (PHÒNG MÁY)
+        + 01 buổi kiểm tra thực hành RMI + WS vào 13:00 - 14:00 ngày 23/11/2025
+        611 A3
+    4. Thi KTHP: 50% thi phòng thực hành OFFLINE
+        + 04 nội dung 01 TCP + 01 UDP + 01 RMI + 01 WS + 01 (...)
+        + Thời gian: 60' (06 câu: 4/6/7/8/9/10)
+        
+Cách thức:
+    1. Các buổi onl theo thời khóa biểu thì các bạn thực hiện như cc
+        + làm bài tập trên trang ôn luyện: http://203.162.10.109/
+            Tài khoản/mật khẩu: MÃ SV/MÃ SV (Viết hoa)
+        + làm bài kiểm tra onl (trọng số vào TBKT (0.2) + BTL (0.2))
+            + Bài 01 TCP: 08:00 - 09:00 03/11/2025 (ONLINE trên hệ thống)
+            + Bài 02 UDP: 08:00 - 09:00 04/11/2025 (ONLINE trên hệ thống)
+            + Bài 03 RMI: 08:00 - 09:00 10/11/2025 (ONLINE trên hệ thống)
+            + Bài 04 RMI: 08:00 - 09:00 11/11/2025 (ONLINE trên hệ thống)
+    2. Trao đổi
+        + group fb: fb.com/groups/hkd102025
+        + email: hungdn@ptit.edu.vn
+    3. Format đề thi trên phòng máy/online:
+    --- Sử dụng IDE, viết chương trình client GIAO TIẾP với server chấm trong đề bài 203.162.10.109
+    ---> Server chấm sẽ đánh giá đúng/sai --> xem ở menu "log xử lý"
+    ---> Nộp bài khi có log xử lý đúng.
+    ---> LƯU Ý: NỘP FILE MÃ NGUỒN KHÔNG PHẢI ĐỂ CHẤM TỰ ĐỘNG
+    
+Trao đổi/thảo luận/thắc mắc
