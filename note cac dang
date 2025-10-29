@@ -1,0 +1,10 @@
+TCP
+-byte stream
+-character stream
+-data stream
+-object stream
+
+UDP
+-data type
+-object
+-string
